@@ -1,0 +1,3 @@
+this is another file from ec2
+
+third line from ec2
